@@ -1,6 +1,6 @@
-# Java Day 1 – Basics ✅
+# Java Day 1 – Basics
 
-Today I practiced core Java fundamentals:
+This repository contains my Day 1 Java practice as part of my Java learning journey.
 
 ## Topics Covered
 - Variables & Data Types
@@ -8,17 +8,9 @@ Today I practiced core Java fundamentals:
 - Nested if–else
 - Even/Odd logic
 - Positive/Negative number check
+- Scanner input basics
 
-## Files Included
-- VariablesDemo.java
-- EvenOdd.java
-- GreaterNumber.java
-- NestedExample.java
-- Scanner examples
-
-## What I Learned
-- How Java makes decisions using conditions
-- How to break logic into steps
-- Writing clean beginner-friendly code
+## Purpose
+This repository is for learning and practice, not final projects.
 
 📌 Day 1 completed successfully.
