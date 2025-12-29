@@ -7,7 +7,7 @@ This repository documents my daily progress in learning **Java for backend devel
 - **Day2_Conditions_Loops** → loops, tables, sums (coming next)
 
 ## Goal
-To become job-ready in Java backend development through consistent daily practice.
+To become ready in Java backend development through consistent daily practice.
 
 📌 Learning in public  
 📌 Updating daily  
