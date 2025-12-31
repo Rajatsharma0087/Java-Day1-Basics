@@ -2,15 +2,40 @@
 
 This repository documents my daily progress in learning **Java for backend development**.
 
-## Structure
-- **Day1_Basics** → variables, input, if-else, nested conditions
-- **Day2_Conditions_Loops** → loops, tables, sums
-- **Day3_OOP_Basics** → class, object, constructor, this keyword, overloading
-- **Day 4 – Java Methods** → Method creation, Parameters, Return types, Static methods, Factorial program  
+## 📁 Repository Structure
 
+- **Day1_Basics**  
+  → Variables, input, if-else, nested conditions  
 
-## Goal
-To become ready in Java backend development through consistent daily practice.
+- **Day2_Conditions_Loops**  
+  → Loops, multiplication tables, sum of numbers  
 
-📌 Learning in public  
-📌 Updating daily  
+- **Day3_OOP_Basics**  
+  → Class, Object, Constructor, `this` keyword, method calls  
+
+- **Day4_Methods**  
+  → Method creation, parameters, return types, static methods, factorial program  
+
+- **Day5_Arrays_Strings**  
+  → Array input & output, sum & max element, searching  
+  → String methods, reverse string, vowel count, palindrome check  
+
+---
+
+## 🎯 Goal
+To become **job-ready in Java backend development** through consistent daily practice and hands-on coding.
+
+---
+
+## 🚀 Learning Approach
+- Daily coding practice
+- Concept-wise learning
+- Pushing code regularly to GitHub
+- Learning in public for accountability
+
+---
+
+📌 **Slow but consistent**  
+📌 **Building strong Java fundamentals**  
+📌 **Updating daily**
+  
