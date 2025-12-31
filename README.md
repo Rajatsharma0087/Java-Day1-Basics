@@ -23,7 +23,7 @@ This repository documents my daily progress in learning **Java for backend devel
 ---
 
 ## 🎯 Goal
-To become **job-ready in Java backend development** through consistent daily practice and hands-on coding.
+To become **Java backend development** through consistent daily practice and hands-on coding.
 
 ---
 
