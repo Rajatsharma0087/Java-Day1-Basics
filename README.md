@@ -1,6 +1,6 @@
 # Java Backend Journey ☕
 
-This repository documents my daily progress in learning **Java for backend development**.
+This repository documents my daily progress in learning **Java for backend development** through hands-on practice.
 
 ## 📁 Repository Structure
 
@@ -20,22 +20,25 @@ This repository documents my daily progress in learning **Java for backend devel
   → Array input & output, sum & max element, searching  
   → String methods, reverse string, vowel count, palindrome check  
 
+- **Day6_Encapsulation**  
+  → Encapsulation, private variables, getters & setters, `this` keyword  
+  → Real-world examples (Student, BankAccount, Employee)
+
 ---
 
 ## 🎯 Goal
-To become **Java backend development** through consistent daily practice and hands-on coding.
+To become a **Java Backend Developer** through consistent daily practice and strong fundamentals.
 
 ---
 
 ## 🚀 Learning Approach
-- Daily coding practice
-- Concept-wise learning
-- Pushing code regularly to GitHub
-- Learning in public for accountability
+- Daily coding practice  
+- Concept-wise learning  
+- Regular GitHub updates  
+- Learning in public for accountability  
 
 ---
 
-📌 **Slow but consistent**  
-📌 **Building strong Java fundamentals**  
-📌 **Updating daily**
-  
+📌 Slow but consistent  
+📌 Building strong Java fundamentals  
+📌 Updating daily
